@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a designer of Graph database
 
 <!--
 **yyh0808/yyh0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
