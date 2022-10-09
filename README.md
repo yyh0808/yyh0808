@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Xiaolang.</br>
-I am a designer
+I am a designer.</br>
 Contact me: yyhxiaolang@gmail.com
 
 <!--
